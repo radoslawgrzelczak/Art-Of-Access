@@ -1,6 +1,12 @@
-Subdomain Enumeration
+# How to Discover Hidden Content
 
-It's method to increase surface of attack by discovering subdomains of website. More subdomains = Bigger attack surface.
+Online Hustlers and Enterprenuers while crafting and building their websites DO NOT hide their subdomains, what COULD GIVE ACCESS TO UNWANTED INFORMATION
+
+If someone discover more subdomains, then he can easily find content which is NOT ALLOWED for average web surfer.
+
+Second thing. More subdomains = Bigger Attack Surface = Bigger Chance to LEAK valuable information
+
+Here is some methods to discover subdomains
 
 1) SSL/TLS Transparency Logs
 

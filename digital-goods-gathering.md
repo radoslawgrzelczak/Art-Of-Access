@@ -1,4 +1,4 @@
-# How to get Free ebooks from Internet
+# How to get Digital Goods with Ease from the Web
 
 ## Setup
  

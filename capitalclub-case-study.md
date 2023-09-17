@@ -44,4 +44,19 @@ As we gone more deep we can see that Content Management System of Capital Club i
 
 https://builtwith.com/CAPITAL.CLUB
 
-In this specific scenario the most simple preven
+1) Security Plugin
+
+I did not found any Security Plugin like Wordfence, All in One Wordpress Security etc.
+
+The very first is to install security plugin to avoid the most basic and the most simple to execute attacks on Wordpress.
+
+2) Set content Private
+
+Just go to sites, go to settings and change read permission to private or password protected or even Unpublished.
+
+3) Whitelisting IP of Leaders/Developers
+
+While site is in time of building very often developers leave content and sites without any protection and focusing on creating backend and system managing.
+Without IP whitelisting ANYONE can access resources BEFORE the site would be already launched. 
+
+Set the Firewall Rules in the Security Plugin like Wordfence and your content is properly prohibited and SECURED.

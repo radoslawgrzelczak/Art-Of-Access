@@ -26,7 +26,7 @@ I created Private Browser Instance for cleaning my cookies and history.
 
 I do research of domain capital.club on the crt.sh - the database with TLS/SSL logs of any domain.
 
-`[https://crt.sh/?q=capital.club](I have got this results)`
+`[https://crt.sh/?q=capital.club][I have got this results]`
 
 After quick research of this websites `[https://support.capital.club](I found this subdomain)`
 

@@ -26,11 +26,11 @@ I created Private Browser Instance for cleaning my cookies and history.
 
 I do research of domain capital.club on the crt.sh - the database with TLS/SSL logs of any domain.
 
-[https://crt.sh/?q=capital.club](I have got this results)
+`[https://crt.sh/?q=capital.club](I have got this results)`
 
-After quick research of this websites [https://support.capital.club](I found this subdomain)
+After quick research of this websites `[https://support.capital.club](I found this subdomain)`
 
-I ran through these articles and I got [https://support.capital.club/articles/233918-how-to-register-as-a-member-at-capital-club](HOLY GRAIL)
+I ran through these articles and I got `[https://support.capital.club/articles/233918-how-to-register-as-a-member-at-capital-club](HOLY GRAIL)`
 
 This article was unfortunately unsecured and probably if it is REVEAL DATE OF OPENING OF CAPITAL CLUB 2023
 

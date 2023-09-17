@@ -34,7 +34,7 @@ https://support.capital.club
 
 I ran through these articles and I got HOLY GRAIL
 
-https://support.capital.club/articles/233918-how-to-register-as-a-member-at-capital-club
+![Alt text](https://github.com/radoslawgrzelczak/ART-OF-GETTING-ACCESS/blob/578af32c7520409c23d5ad78fdd5974364bf63e7/received_324189113508165.jpeg)
 
 This article was unfortunately unsecured and probably if it is REVEAL DATE OF OPENING OF CAPITAL CLUB 2023
 

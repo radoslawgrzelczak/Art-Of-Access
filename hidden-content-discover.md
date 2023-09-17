@@ -1,4 +1,4 @@
-# How to Discover Hidden Content
+# How to Discover Hidden Content on the Website
 
 Online Hustlers and Enterprenuers while crafting and building their websites DO NOT hide their subdomains, what COULD GIVE ACCESS TO UNWANTED INFORMATION
 

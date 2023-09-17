@@ -26,19 +26,22 @@ I created Private Browser Instance for cleaning my cookies and history.
 
 I do research of domain capital.club on the crt.sh - the database with TLS/SSL logs of any domain.
 
-`[https://crt.sh/?q=capital.club][I have got this results]`
+https://crt.sh/?q=capital.club I have got this results
 
-After quick research of this websites `[https://support.capital.club](I found this subdomain)`
+After quick research of this websites I found this subdomain
 
-I ran through these articles and I got `[https://support.capital.club/articles/233918-how-to-register-as-a-member-at-capital-club](HOLY GRAIL)`
+https://support.capital.club
+
+I ran through these articles and I got HOLY GRAIL
+
+https://support.capital.club/articles/233918-how-to-register-as-a-member-at-capital-club
 
 This article was unfortunately unsecured and probably if it is REVEAL DATE OF OPENING OF CAPITAL CLUB 2023
 
 ## How to AVOID this type of thing
 
-  
+As we gone more deep we can see that Content Management System of Capital Club is Wordpress
 
+https://builtwith.com/CAPITAL.CLUB
 
-
-
-
+In this specific scenario the most simple preven

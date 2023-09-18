@@ -4,11 +4,14 @@
 ## Official Statement
 
 First of all, I DO NOT and I will NOT want to harm Luke Belmar by writing this thing. 
-Second one. I DID NOT, I DO NOT and I will NOT reveal the date of Opening Capital Club to anybody signed up to Capital Club Waitlist.
+
+Second. I DID NOT, I DO NOT and I will NOT reveal the date of Opening Capital Club (If it is REAL) to anybody signed up to Capital Club Waitlist.
 
 Luke Belmar is one my biggest authorities in my life. 
 
 His speeches, datesets and videos literally changed my perspective about life. Period.
+
+His help and value that provide to me make me morally unavail to even think about doing some wrong shit against Luke.
 
 And once again, my case study of doing this are not about harming or acting to the detriment of Capital Club.
 

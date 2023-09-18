@@ -63,3 +63,11 @@ While site is in time of building very often developers leave content and sites 
 Without IP whitelisting ANYONE can access resources BEFORE the site would be already launched. 
 
 Set the Firewall Rules in the Security Plugin like Wordfence and your content is properly prohibited and SECURED.
+
+4) robots.txt file
+
+Links can be access by search engines robots. We can easily add rules to file robots.txt to prohibit specific content from visibilty.
+
+5) .htaccess file
+
+To more protection we can force viewers from access to specifc URL by redirecting him to fixed location.
